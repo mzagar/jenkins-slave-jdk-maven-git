@@ -8,3 +8,4 @@ Jenkins slave based on evarga/jenkins-slave image with:
 - maven 3.3.9
 - git 1.9.1 installed.
 
+Note: sylinks /opt/jdk/latest and /usr/local/apache-maven exist and point to respective folders.
